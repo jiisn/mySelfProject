@@ -1,2 +1,27 @@
-# CustomeFrameWork of vue
-自己参考一些高星项目，利用vue-cil自己定制设计配置的一个vue框架。
+# vuecustomframework
+
+> custom design frameWork of vue
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+
+# run unit tests
+npm run unit
+
+# run all tests
+npm test
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
